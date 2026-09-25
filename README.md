@@ -17,3 +17,11 @@ which should already contain `Big Walk.app`. See the [README](mods/README.md).
 
 Note that `Data` and `GameAssembly.dylib` should be symlinks, pointing at things
 inside `Big Walk.app`.
+
+## Upstream Projects and Copyright Licences
+
+I had to patch about four different repositories to get this working. When I have
+a minute, I'll fork them, push the changes and see whether anything is useful
+enough to create a pull request. At the moment this was mostly vibe-coded, and I
+haven't figured out the licence details yet. See https://github.com/BepInEx/BepInEx
+and all the dependencies linked from there.
