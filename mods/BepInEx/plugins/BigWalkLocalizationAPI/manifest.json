@@ -1,0 +1,9 @@
+{
+    "name": "BigWalkLocalizationAPI",
+    "version_number": "1.1.0",
+    "website_url": "https://github.com/ibox233/IceBox_Mods_Issues",
+    "description": "BigWalkLocalizationAPI is a shared localization API for Big Walk mods.",
+    "dependencies": [
+        "BepInEx-BepInExPack_IL2CPP-6.0.755"
+    ]
+}

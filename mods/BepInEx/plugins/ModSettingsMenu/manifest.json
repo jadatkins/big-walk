@@ -1,0 +1,10 @@
+{
+    "name": "ModSettingsMenu",
+    "version_number": "1.1.2",
+    "website_url": "https://github.com/ibox233/IceBox_Mods_Issues",
+    "description": "Adds a unified in-game mod configuration screen to the main and pause menus.",
+    "dependencies": [
+        "BepInEx-BepInExPack_IL2CPP-6.0.755",
+        "Ice_Box_Studio_BigWalk-BigWalkLocalizationAPI-1.1.0"
+    ]
+}
